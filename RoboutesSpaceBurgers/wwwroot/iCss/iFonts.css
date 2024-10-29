@@ -1,0 +1,32 @@
+﻿
+
+
+@font-face {
+    font-family:Diablo;
+    src:url('/Fonts/diablo/Diablo Light.ttf');
+
+
+}
+
+@font-face {
+    font-family: Digital;
+    src: url('/Fonts/digital-7/digital-7.ttf');
+
+}
+
+
+
+.Diablo{
+    font-family:Diablo;
+    color:goldenrod;
+}
+
+
+
+
+
+
+
+
+
+
